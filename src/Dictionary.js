@@ -27,7 +27,7 @@ export default function Dictionary() {
 
   return (
     <div className="Dictionary">
-      <h1 className="text-uppercase">Dictionary</h1>
+      <h1 className="text-uppercase">Dictionary 📖</h1>
       <div className="form">
         <form onSubmit={search}>
           <h2>What would you like to look up?</h2>
