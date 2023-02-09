@@ -11,7 +11,7 @@ export default function App() {
         </main>
         <footer className="app-footer">
           <small>
-            Coded by{" "}
+            💙 Coded by{" "}
             <a
               href="https://alliesportfolio.netlify.app"
               target="_blank"
@@ -27,6 +27,7 @@ export default function App() {
             >
               open-sourced
             </a>{" "}
+            💙
           </small>
         </footer>
       </div>

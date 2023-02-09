@@ -32,6 +32,7 @@ export default function Dictionary() {
             autoFocus={true}
             onChange={handleKeywordChange}
           />
+          <input type="submit" value="🔍" className="submit-button" />
         </form>
       </div>
     </div>
