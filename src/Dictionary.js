@@ -30,7 +30,7 @@ export default function Dictionary() {
       <h1 className="text-uppercase">Dictionary 📖</h1>
       <div className="form">
         <form onSubmit={search}>
-          <h2>What would you like to look up?</h2>
+          <h2>What word would you like to look up?</h2>
           <input
             type="search"
             autoFocus={true}
