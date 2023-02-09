@@ -1,2 +1,10 @@
-.Dictionary {
+.Dictionary h1 {
+  text-align: center;
+  margin: 20px;
+  font-size: 50px;
+}
+
+form {
+  text-align: center;
+  margin: 25px;
 }
